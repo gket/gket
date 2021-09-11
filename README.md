@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+👨🏽‍💻 I'm Gorkem, I'm working as an Android Developer at [Teknasyon Technology](https://teknasyon.com/en)
+
+📫 How to reach me: gorkemkethuda@gmail.com
 
 <!--
 **gket/gket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
