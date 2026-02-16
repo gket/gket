@@ -1,7 +1,5 @@
 ### Hi 👋
 
-👨🏽‍💻 I'm Gorkem, I'm working as an Android Developer at [Teleclinic GmbH](https://teleclinic.de)
-
 📫 How to reach me: gorkemkethuda@gmail.com
 
 <!--
